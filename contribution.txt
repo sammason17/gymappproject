@@ -1,0 +1,21 @@
+Contributing to Workout Builder App
+Thank you for considering contributing to the Workout Builder App! We welcome all contributions, including bug reports, feature requests, and code contributions. However, please note that only the project owner will have permission to merge changes into the main or develop branches.
+
+Code of Conduct
+We expect all contributors to follow our code of conduct, which can be found in the CODE_OF_CONDUCT file. Please be respectful and considerate of others, and maintain a professional and welcoming environment for everyone.
+
+Getting Started
+Before you begin contributing, please make sure you have read the README file and are familiar with the technologies used in the project. You should also have a basic understanding of Git and GitHub.
+
+To contribute to the project, you should create a new branch for your changes, based on the current develop branch. Your branch should be named in the following format: feature/{description-of-feature}. For example, if you are adding a new feature to allow users to track their progress over time, your branch should be named feature/progress-tracking.
+
+Once you have made your changes, you should create a pull request to merge your branch into the develop branch. Please make sure your code is well-documented, and that any new functionality is thoroughly tested.
+
+Code Review
+Once you have submitted your pull request, the project owner will review your code and provide feedback. You may be asked to make changes or improvements to your code before it is merged. Please be patient and responsive during the code review process, as it is an important part of ensuring the quality and reliability of the codebase.
+
+License
+By contributing to the Workout Builder App, you agree to license your contributions under the terms of the MIT License. Please see the LICENSE file for more information.
+
+Contact
+If you have any questions or comments about contributing to the Workout Builder App, please contact us at workoutbuilder@example.com. We appreciate your contributions and look forward to working with you!

@@ -1,0 +1,35 @@
+Code of Conduct
+The Workout Builder App is committed to providing a professional and welcoming environment for everyone. We expect all contributors to follow the standards of conduct outlined below:
+
+Respect
+We expect all contributors to treat others with respect and consideration, regardless of their background, experience, or opinions. We will not tolerate any form of harassment, discrimination, or offensive behavior, including but not limited to:
+
+Verbal or written comments that are derogatory or discriminatory
+Personal insults or attacks
+Unwelcome or inappropriate advances
+Intimidation or threats
+Discrimination based on age, gender, sexual orientation, race, religion, or other factors
+Professionalism
+We expect all contributors to behave in a professional and responsible manner. This includes:
+
+Being courteous and respectful in all interactions
+Providing constructive feedback and criticism
+Listening to and considering the opinions of others
+Avoiding conflicts of interest or the appearance of impropriety
+Upholding the integrity and reputation of the project and its contributors
+Confidentiality
+We expect all contributors to maintain the confidentiality of sensitive information, such as personal or financial information, trade secrets, or other confidential information. This includes:
+
+Not disclosing confidential information to unauthorized parties
+Protecting sensitive information from unauthorized access or use
+Using good judgment and discretion when handling sensitive information
+Enforcement
+We take the standards of conduct outlined in this Code of Conduct seriously, and will not tolerate any violations. We reserve the right to take appropriate action, including but not limited to:
+
+Removing or rejecting contributions that violate this Code of Conduct
+Blocking or banning contributors who violate this Code of Conduct
+Reporting illegal or unethical behavior to the appropriate authorities
+If you witness or experience any violations of this Code of Conduct, please contact us at workoutbuilder@example.com. We will investigate all complaints and take appropriate action as necessary.
+
+Acknowledgement
+By contributing to the Workout Builder App, you agree to follow this Code of Conduct. We thank you for your commitment to maintaining a professional and welcoming environment for everyone.
